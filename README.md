@@ -6,9 +6,7 @@ This project contains a complete set of SQL queries written for the AdventureWor
 
 Customer analysis
 Product and inventory management
-
 Sales insights and revenue tracking
-
 Employee and manager relationships
 
 All queries were executed and tested in SQL Server Management Studio (SSMS) on the AdventureWorks2022 dataset.
