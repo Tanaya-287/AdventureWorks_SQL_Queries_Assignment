@@ -1,6 +1,7 @@
 # AdventureWorks_SQL_Queries_Assignment-Level A
 
 📂 Project Overview
+
 This project contains a complete set of SQL queries written for the AdventureWorks sample database as part of a Level A SQL task. These queries demonstrate core and intermediate SQL skills using realistic business data, including:
 Customer analysis
 Product and inventory management
