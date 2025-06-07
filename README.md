@@ -89,6 +89,7 @@ README.md – project overview and documentation
 SQL_Queries_Assignment.sql – full SQL file with queries
 
 🚀 License
+
 This project is open-source and available under the MIT License.
 
 
