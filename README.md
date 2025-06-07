@@ -1,1 +1,1 @@
-# NewRepo
+# AdventureWorks_SQL_Queries_Assignment
